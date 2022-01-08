@@ -1,0 +1,5 @@
+1 aaaa toronto-bank 10 20.0
+1 aaab bank-of-montreal 10 50.0
+1 aaac royal-bank 50 10.0
+1 aaad bank-of-toronto 9 90.0
+2 aapl apple-inc 20 20.0

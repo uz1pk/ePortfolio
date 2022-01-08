@@ -1,0 +1,2 @@
+1 aapl apple-inc 1 1.0
+1 jitc JIT-COIN 10 10.0
