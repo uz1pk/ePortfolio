@@ -18,7 +18,7 @@ Compiling/Running the program
 
 ## Program Description:
 
-	An investor often needs to maintain a portfolio of different investments so that the person
+An investor often needs to maintain a portfolio of different investments so that the person
 can keep track of the actions for buying or selling investments, searching for relevant
 investments, updating prices, and calculating the total gain of the portfolio. An investment is
 better modeled by an object so that you can distinguish different attributes and apply suitable
