@@ -10,11 +10,11 @@ Last Edited: 2021-11-08
 
 ## How to Run:  
 Compiling/Running the program  
-0. OPTIONAL test file included with pre-existing values for search test case 7 along with load function testing  
-1. Open the terminal within the src (NOT eportfolio project folder) folder  
-2. Use the command "javac eportfolio/Portfolio.java"  
-3. Then run the command "java eportfolio/Portfolio" or run the command "java eportfolio/Portfolio filename.txt" for sample file (file must be consistent with load/save format) 
-4. From there it will start the program.
+1. OPTIONAL test file included with pre-existing values for search test case 7 along with load function testing  
+2. Open the terminal within the src (NOT eportfolio project folder) folder  
+3. Use the command "javac eportfolio/Portfolio.java"  
+4. Then run the command "java eportfolio/Portfolio" or run the command "java eportfolio/Portfolio filename.txt" for sample file (file must be consistent with load/save format) 
+5. From there it will start the program.
 
 ## Program Description:
 
